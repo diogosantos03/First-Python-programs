@@ -1,0 +1,5 @@
+hs=int(input('quantos hs?'))
+minu=int(input('quantos min?'))
+seg=int(input('quantos seg?'))
+result=((hs*3600)+(minu*60)+seg)
+print(result)
